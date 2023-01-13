@@ -1,4 +1,17 @@
+
+
 h1 {text-align: center; 
 	font-family: sans-serif; 
-	font-size: 140%
+	font-size: 200%;
+	background-color: skyblue;
+	height: 100px;
+	margin-top:0;
+	padding-top:50px; 
+	
+
+	}
+
+body {background-color: paleturquoise;
+	margin:0;
+padding: 0;
 }
